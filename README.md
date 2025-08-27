@@ -44,6 +44,8 @@ The system is built on Arduino Nano and integrates multiple sensors for health t
 
 ## 📐 Circuit Diagram 
 
+ <img src="media/circuit_diagram.png"  />
+
 ---
 
 ## 💻 Software Setup & Instructions  
